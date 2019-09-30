@@ -1,4 +1,4 @@
-title: Bitholic's blog
+title: bith01ic's blog
 description: ""
 author:
   name: "bitholic"
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "bitholic"
+owner : "bith01ic"
 year : "2019"
